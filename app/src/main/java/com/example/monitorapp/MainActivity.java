@@ -64,6 +64,7 @@ public class MainActivity extends AppCompatActivity {
 
             notificationManager.notify(1, notification);
             Log.d("MainActivity", "Notificação enviada");
+
         });
     }
 }
